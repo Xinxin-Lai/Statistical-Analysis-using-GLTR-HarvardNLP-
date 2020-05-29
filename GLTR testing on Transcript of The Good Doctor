@@ -25,4 +25,4 @@ This will start downloading the respective pre-trained model on your machine. Gi
 When everything is ready, the server will start at port 5001 and you can directly go to http://localhost:5001 to access it:
 
 Below are my trials on the transcripts on the American TV show *The Good Doctor*
-
+<img width="567" alt="TheGoodDoctorTranscript1" src="https://user-images.githubusercontent.com/47131675/83286019-45c25800-a1ad-11ea-8f0b-bba2d4907317.png">
