@@ -35,4 +35,4 @@ Below are my trials on the transcripts on the American TV show *The Good Doctor*
 
 <img width="491" alt="Nudge_Excerpt" src="https://user-images.githubusercontent.com/47131675/83314078-bb96e580-a1e6-11ea-8a0d-3a322f610c54.png">
 
-As you can see that it is interestingly harder for a model to predict transcripts like human's language, but easier for it to pick up what it is in a book and predict the next words.  
+As you can see that it is interestingly harder for a model to predict transcripts like human's languages, but easier for it to pick up what it is in a book and predict the next word.  
